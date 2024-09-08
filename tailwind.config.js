@@ -7,6 +7,10 @@ export default {
         yellowsaroj: "#FFB900",
         bluesaroj: "#005CA5",
       },
+      screens: {
+        lg: "858px",
+        xl: "1398px",
+      },
     },
   },
   plugins: [],
